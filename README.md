@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**idboufker321/idboufker321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# I'm Brahim ID-BOUFKER
 
-Here are some ideas to get you started:
+I’m a passionate **Web Developer** with a strong interest in building clean, functional, and user-friendly web applications. I enjoy working on both the frontend and backend, especially with modern JavaScript frameworks and tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 What I do
+
+- 🌐 Frontend Development with **React.js**, **Redux**, **Tailwind CSS**
+- ⚙️ Backend/API integration using **Node.js**, **Express**, **REST APIs**, **GraphQL**
+- 🗃️ Database management with **SQL** and **NoSQL (MongoDB)**
+- 🧪 Writing clean code, testing, and debugging
+- 🤝 Collaborating in agile teams & solving real-world problems
+
+## 🔧 Tech Stack
+
+```txt
+💻 Languages:        JavaScript, HTML, CSS, SQL
+⚛️ Frontend:         React, Redux, Tailwind, Axios
+🛠️ Backend & APIs:   Node.js, Express, REST, GraphQL
+🗄️ Databases:        MongoDB, MySQL
+🧰 Tools:            Git, GitHub, Postman, VS Code
